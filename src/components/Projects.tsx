@@ -40,7 +40,7 @@ const Projects = () => {
       techs: ["React", "API REST", "JavaScript"],
       github: "https://github.com/ManchaliDamian/GifApp",
       demo: "https://manchalidamian.github.io/GifApp/",
-      image: "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=800&h=600&fit=crop"
+      image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=600&fit=crop"
     },
   ];
 

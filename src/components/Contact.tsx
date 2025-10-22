@@ -1,4 +1,5 @@
 import { Mail, Github, Linkedin, MapPin } from "lucide-react";
+import { FaWhatsapp } from "react-icons/fa";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 
@@ -7,8 +8,8 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "damianmanchali@gmail.com",
-      link: "mailto:damianmanchali@gmail.com",
+      value: "dami.manchali.eze@gmail.com",
+      link: "mailto:ami.manchali.eze@gmail.com",
     },
     {
       icon: Github,
@@ -20,13 +21,13 @@ const Contact = () => {
       icon: Linkedin,
       label: "LinkedIn",
       value: "Damián Manchali",
-      link: "https://www.linkedin.com/in/damian-manchali-59a0b9257/",
+      link: "https://www.linkedin.com/in/damian-manchali/",
     },
     {
-      icon: MapPin,
-      label: "Ubicación",
-      value: "Argentina",
-      link: null,
+      icon: FaWhatsapp,
+      label: "WhatsApp",
+      value: "+54 9 11 3140-3328",
+      link: "https://wa.me/5491131403328",
     },
   ];
 
