@@ -9,7 +9,7 @@ const Contact = () => {
       icon: Mail,
       label: "Email",
       value: "dami.manchali.eze@gmail.com",
-      link: "mailto:ami.manchali.eze@gmail.com",
+      link: "mailto:dami.manchali.eze@gmail.com",
     },
     {
       icon: Github,
@@ -83,7 +83,7 @@ const Contact = () => {
               className="gradient-bg text-white hover:opacity-90 transition-smooth shadow-elegant"
               asChild
             >
-              <a href="mailto:damianmanchali@gmail.com">
+              <a href="mailto:dami.manchali.eze@gmail.com">
                 <Mail className="mr-2" size={20} />
                 Enviar un Email
               </a>
